@@ -1,6 +1,6 @@
 # Solidity-bootcamp-4
 
-###Task-4
+### Task-4
 
 In the previous lesson we have created a function to calculate the state of the proposal so that we can see if the proposal is succeeded or failed. We can have many different logics for the calculation other than the one we implemented. So, your task is:
 
